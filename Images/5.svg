@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="154" viewBox="0 0 170 154">
+  <defs>
+    <style>
+      .a, .c {
+        fill: #fff;
+      }
+
+      .b, .d {
+        fill: none;
+      }
+
+      .b, .c, .d {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .c, .d {
+        stroke-width: 2px;
+      }
+
+      .e {
+        font-size: 10.5px;
+        fill: blue;
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .f, .h {
+        font-size: 6px;
+      }
+
+      .g {
+        font-size: 10.5px;
+        fill: #000;
+      }
+
+      .h {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="a" width="170" height="154"/>
+  <line class="b" x1="26" y1="71.5" x2="26" y2="18.5"/>
+  <line class="b" x1="62" y1="19" x2="26" y2="19"/>
+  <line class="b" x1="94.5" y1="19" x2="153.5" y2="19"/>
+  <rect class="c" x="56" y="11" width="48" height="16"/>
+  <line class="b" x1="26" y1="89.5" x2="26" y2="142.5"/>
+  <circle class="d" cx="156" cy="19" r="2.5"/>
+  <circle class="d" cx="156" cy="142.5" r="2.5"/>
+  <line class="b" x1="25.5" y1="142.5" x2="153.5" y2="142.5"/>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 54.2, 37.136)">R<tspan class="f" x="6.667" y="0" xml:space="preserve">th  </tspan><tspan class="g" x="15.259" y="0">2Ω</tspan></text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 45.721, 74.914)">U<tspan class="h" x="7.571" y="0">th</tspan><tspan class="g"><tspan x="0" y="12.6">0.75V</tspan><tspan class="f" x="26.439" y="12.6"> </tspan></tspan></text>
+  <g>
+    <g>
+      <circle class="a" cx="26" cy="84" r="17"/>
+      <path d="M192,649.5A16.5,16.5,0,1,1,175.5,666,16.519,16.519,0,0,1,192,649.5m0-1A17.5,17.5,0,1,0,209.5,666,17.5,17.5,0,0,0,192,648.5Z" transform="translate(-166 -582)"/>
+    </g>
+    <line class="b" x1="26" y1="67.5" x2="26" y2="62.5"/>
+    <line class="b" x1="26" y1="105.5" x2="26" y2="100.5"/>
+    <line class="b" x1="26" y1="75.5" x2="26" y2="69.5"/>
+    <line class="b" x1="23" y1="72.5" x2="29" y2="72.5"/>
+    <line class="b" x1="23" y1="95.5" x2="29" y2="95.5"/>
+  </g>
+</svg>

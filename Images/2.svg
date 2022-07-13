@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" x="0.5" y="0.5" width="49" height="49"/>
+    <path class="a" d="M49,1V49H1V1H49m1-1H0V50H50V0Z"/>
+  </g>
+  <g>
+    <circle class="a" cx="25.5" cy="25.5" r="17"/>
+    <path d="M25.5,9A16.5,16.5,0,1,1,9,25.5,16.519,16.519,0,0,1,25.5,9m0-1A17.5,17.5,0,1,0,43,25.5,17.5,17.5,0,0,0,25.5,8Z"/>
+  </g>
+  <line class="b" x1="25.5" y1="9" x2="25.5" y2="4"/>
+  <line class="b" x1="25.5" y1="47" x2="25.5" y2="42"/>
+  <line class="b" x1="25.5" y1="17" x2="25.5" y2="11"/>
+  <line class="b" x1="22.5" y1="14" x2="28.5" y2="14"/>
+  <line class="b" x1="22.5" y1="37" x2="28.5" y2="37"/>
+</svg>

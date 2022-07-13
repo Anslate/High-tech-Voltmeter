@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332.538" height="79.487" viewBox="0 0 332.538 79.487">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        stroke-width: 4px;
+      }
+
+      .c {
+        stroke-width: 3px;
+      }
+
+      .d {
+        font-size: 21px;
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .e {
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <rect class="a" x="3.538" width="329" height="64"/>
+  <g>
+    <line class="b" x1="180.538" y1="22" x2="308.538" y2="22"/>
+    <line class="b" x1="18.538" y1="22" x2="146.538" y2="22"/>
+    <line class="b" x1="100.538" y1="22" x2="228.538" y2="22"/>
+    <g>
+      <rect class="a" x="54.538" y="8" width="92" height="28"/>
+      <path d="M141,10V34H53V10h88m4-4H49V38h96V6Z" transform="translate(3.538)"/>
+    </g>
+    <g>
+      <rect class="a" x="182.538" y="8" width="92" height="28"/>
+      <path d="M269,10V34H181V10h88m4-4H177V38h96V6Z" transform="translate(3.538)"/>
+    </g>
+    <circle class="b" cx="14.538" cy="22" r="5"/>
+    <line class="b" x1="310.538" y1="20" x2="310.538" y2="43"/>
+    <line class="c" x1="292.538" y1="43" x2="328.538" y2="43"/>
+    <line class="c" x1="298.538" y1="51" x2="322.538" y2="51"/>
+    <line class="c" x1="304.538" y1="59" x2="316.538" y2="59"/>
+    <text class="d" transform="matrix(0.988, 0, -0.156, 0.988, 52.75, 57.75)">R<tspan class="e" x="13.335" y="0">1</tspan></text>
+    <text class="d" transform="matrix(0.988, 0, -0.156, 0.988, 180.729, 57.584)">R<tspan class="e" x="13.335" y="0">2</tspan></text>
+    <text class="d" transform="matrix(0.988, 0, -0.156, 0.988, 3.443, 48.134)">U<tspan class="e" x="15.14" y="0">0</tspan></text>
+  </g>
+</svg>
