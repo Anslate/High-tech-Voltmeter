@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="250" viewBox="0 0 375 250">
+  <defs>
+    <style>
+      .a, .b, .f {
+        fill: #fff;
+      }
+
+      .b, .c, .e, .f, .g, .i, .j {
+        stroke: #000;
+      }
+
+      .aa, .ab, .b, .c, .e, .f, .g, .i, .j, .u, .v, .w, .z {
+        stroke-miterlimit: 10;
+      }
+
+      .b, .f {
+        stroke-width: 2.5px;
+      }
+
+      .c, .e, .g, .i, .j {
+        fill: none;
+      }
+
+      .c, .g {
+        stroke-width: 1.25px;
+      }
+
+      .d, .m {
+        opacity: 0.3;
+      }
+
+      .e {
+        stroke-width: 0.938px;
+      }
+
+      .f, .g, .h, .j, .l, .n, .s {
+        opacity: 0.1;
+      }
+
+      .i, .j {
+        stroke-width: 1.875px;
+      }
+
+      .k, .l, .m {
+        font-size: 17.718px;
+      }
+
+      .ad, .k, .l, .m, .n, .o, .q, .s {
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .n, .o {
+        font-size: 10.125px;
+        fill: blue;
+      }
+
+      .p {
+        letter-spacing: -0.025em;
+      }
+
+      .q, .s {
+        font-size: 15.187px;
+      }
+
+      .q, .s, .y {
+        fill: red;
+      }
+
+      .r, .t {
+        font-size: 9.492px;
+      }
+
+      .t {
+        letter-spacing: 0em;
+      }
+
+      .aa, .ab, .u, .v, .w, .z {
+        stroke: red;
+      }
+
+      .u {
+        fill: url(#a);
+      }
+
+      .v {
+        fill: url(#b);
+      }
+
+      .w {
+        fill: url(#c);
+      }
+
+      .x {
+        fill: url(#d);
+      }
+
+      .z {
+        fill: url(#e);
+      }
+
+      .aa {
+        fill: url(#f);
+      }
+
+      .ab {
+        fill: url(#g);
+      }
+
+      .ac {
+        fill: url(#h);
+      }
+
+      .ad {
+        font-size: 12px;
+      }
+    </style>
+    <linearGradient id="a" data-name="未命名的渐变" x1="170.583" y1="564.528" x2="191.367" y2="564.528" gradientTransform="translate(-536.365 -9.033) rotate(-60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="b" x1="170.583" y1="561.26" x2="172.047" y2="561.26" xlink:href="#a"/>
+    <linearGradient id="c" x1="170.583" y1="557.796" x2="176.047" y2="557.796" xlink:href="#a"/>
+    <linearGradient id="d" x1="169.97" y1="558.528" x2="171.195" y2="558.528" gradientTransform="translate(134.913 27.855) rotate(15)" xlink:href="#a"/>
+    <linearGradient id="e" x1="89.665" y1="611.44" x2="110.45" y2="611.44" xlink:href="#a"/>
+    <linearGradient id="f" x1="89.665" y1="608.172" x2="91.13" y2="608.172" xlink:href="#a"/>
+    <linearGradient id="g" x1="89.665" y1="604.708" x2="95.13" y2="604.708" xlink:href="#a"/>
+    <linearGradient id="h" x1="89.053" y1="605.44" x2="90.278" y2="605.44" gradientTransform="translate(225.384 97.017) rotate(15)" xlink:href="#a"/>
+  </defs>
+  <rect class="a" width="375" height="250"/>
+  <rect class="b" x="121.25" y="552.75" width="60" height="20" transform="translate(-534 225) rotate(-90)"/>
+  <rect class="b" x="121.25" y="652.75" width="60" height="20" transform="translate(-634 325) rotate(-90)"/>
+  <line class="c" x1="28.75" y1="103.75" x2="28.75" y2="143.75"/>
+  <circle class="d" cx="28.75" cy="123.75" r="1.875"/>
+  <line class="e" x1="17.5" y1="223.75" x2="40" y2="223.75"/>
+  <line class="e" x1="21.25" y1="228.75" x2="36.25" y2="228.75"/>
+  <line class="e" x1="25" y1="233.75" x2="32.5" y2="233.75"/>
+  <line class="c" x1="28.75" y1="223.75" x2="28.75" y2="203.75"/>
+  <rect class="f" x="221.25" y="552.75" width="60" height="20" transform="translate(-434 325) rotate(-90)"/>
+  <line class="g" x1="128.75" y1="123.75" x2="128.75" y2="103.75"/>
+  <circle class="h" cx="128.75" cy="123.75" r="1.875"/>
+  <rect class="f" x="321.25" y="552.75" width="60" height="20" transform="translate(-334 425) rotate(-90)"/>
+  <circle class="h" cx="228.75" cy="123.75" r="1.875"/>
+  <line class="g" x1="228.75" y1="123.75" x2="228.75" y2="103.75"/>
+  <rect class="f" x="421.25" y="552.75" width="60" height="20" transform="translate(-234 525) rotate(-90)"/>
+  <circle class="h" cx="328.75" cy="123.75" r="1.875"/>
+  <line class="g" x1="328.75" y1="123.75" x2="328.75" y2="103.75"/>
+  <line class="c" x1="28.75" y1="43.75" x2="28.75" y2="23.75"/>
+  <line class="g" x1="128.75" y1="43.75" x2="128.75" y2="23.75"/>
+  <line class="g" x1="228.75" y1="43.75" x2="228.75" y2="23.75"/>
+  <line class="g" x1="328.75" y1="43.75" x2="328.75" y2="23.75"/>
+  <circle class="i" cx="28.75" cy="21.25" r="3.125"/>
+  <circle class="j" cx="128.75" cy="21.25" r="3.125"/>
+  <circle class="j" cx="228.75" cy="21.25" r="3.125"/>
+  <circle class="j" cx="328.75" cy="21.25" r="3.125"/>
+  <circle class="j" cx="353.75" cy="123.75" r="3.125"/>
+  <rect class="f" x="48.75" y="113.75" width="60" height="20"/>
+  <rect class="f" x="148.75" y="113.75" width="60" height="20"/>
+  <rect class="f" x="248.75" y="113.75" width="60" height="20"/>
+  <line class="g" x1="28.75" y1="123.75" x2="48.75" y2="123.75"/>
+  <line class="g" x1="108.75" y1="123.75" x2="148.75" y2="123.75"/>
+  <line class="g" x1="208.75" y1="123.75" x2="248.75" y2="123.75"/>
+  <line class="g" x1="310" y1="123.75" x2="350" y2="123.75"/>
+  <text class="k" transform="matrix(0.988, 0, -0.156, 0.988, 41.106, 57.292)">2R</text>
+  <text class="l" transform="matrix(0.988, 0, -0.156, 0.988, 93.606, 57.292)">2R</text>
+  <text class="l" transform="matrix(0.988, 0, -0.156, 0.988, 193.606, 57.292)">2R</text>
+  <text class="l" transform="matrix(0.988, 0, -0.156, 0.988, 293.606, 57.292)">2R</text>
+  <text class="k" transform="matrix(0.988, 0, -0.156, 0.988, 41.107, 157.295)">2R</text>
+  <text class="m" transform="matrix(0.988, 0, -0.156, 0.988, 48.466, 109.795)">R</text>
+  <text class="l" transform="matrix(0.988, 0, -0.156, 0.988, 148.466, 109.795)">R</text>
+  <text class="l" transform="matrix(0.988, 0, -0.156, 0.988, 248.466, 109.795)">R</text>
+  <text class="n" transform="matrix(0.988, 0, -0.156, 0.988, 333.596, 40.423)">MSB</text>
+  <text class="o" transform="matrix(0.988, 0, -0.156, 0.988, 33.596, 40.423)"><tspan class="p">L</tspan><tspan x="5.244" y="0">SB</tspan></text>
+  <text class="q" transform="matrix(0.988, 0, -0.156, 0.988, 33.58, 25.424)">U<tspan class="r" x="10.949" y="0">3</tspan></text>
+  <text class="s" transform="matrix(0.988, 0, -0.156, 0.988, 133.58, 25.424)">U<tspan class="r" x="10.949" y="0">2</tspan></text>
+  <text class="s" transform="matrix(0.988, 0, -0.156, 0.988, 233.58, 25.424)">U<tspan class="r" x="10.949" y="0">1</tspan></text>
+  <text class="s" transform="matrix(0.988, 0, -0.156, 0.988, 333.58, 25.424)">U<tspan class="r" x="10.949" y="0">0</tspan></text>
+  <text class="s" transform="matrix(0.988, 0, -0.156, 0.988, 332.487, 119.091)">U<tspan class="t" x="10.949" y="0">out</tspan></text>
+  <g>
+    <line class="u" x1="32.626" y1="122.502" x2="53.41" y2="110.502"/>
+    <line class="v" x1="32.626" y1="122.502" x2="38.09" y2="123.966"/>
+    <line class="w" x1="32.626" y1="122.502" x2="34.09" y2="117.038"/>
+    <g>
+      <rect class="x" x="154.626" y="611.002" width="1" height="1" transform="translate(-598.189 114.073) rotate(-75)"/>
+      <polygon class="y" points="32.272 121.889 32.013 122.855 32.979 123.114 33.238 122.148 32.272 121.889 32.272 121.889"/>
+    </g>
+  </g>
+  <g>
+    <line class="z" x1="32.794" y1="216.034" x2="53.579" y2="204.034"/>
+    <line class="aa" x1="32.794" y1="216.034" x2="38.258" y2="217.498"/>
+    <line class="ab" x1="32.794" y1="216.034" x2="34.258" y2="210.57"/>
+    <g>
+      <rect class="ac" x="154.794" y="704.534" width="1" height="1" transform="translate(-688.409 183.561) rotate(-75)"/>
+      <polygon class="y" points="32.441 215.422 32.182 216.388 33.148 216.647 33.407 215.681 32.441 215.422 32.441 215.422"/>
+    </g>
+  </g>
+  <text class="ad" transform="translate(73.665 173.45)">这两个红箭头指的是戴维南等效电路中的两个端点</text>
+</svg>

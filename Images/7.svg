@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="172.873" viewBox="0 0 240 172.873">
+  <defs>
+    <style>
+      .a, .b {
+        fill: #fff;
+      }
+
+      .b, .c, .d {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .b, .d {
+        stroke-width: 2px;
+      }
+
+      .c, .d {
+        fill: none;
+      }
+
+      .e {
+        font-size: 10.5px;
+      }
+
+      .e, .h {
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .f {
+        font-size: 6px;
+      }
+
+      .g {
+        font-size: 10.5px;
+      }
+
+      .h {
+        font-size: 12.15px;
+        fill: red;
+      }
+    </style>
+  </defs>
+  <rect class="a" width="240" height="170"/>
+  <rect class="b" x="276" y="623" width="48" height="16" transform="translate(-501 354) rotate(-90)"/>
+  <rect class="b" x="276" y="693" width="48" height="16" transform="translate(-571 424) rotate(-90)"/>
+  <rect class="b" x="160" y="8" width="48" height="16"/>
+  <line class="c" x1="22" y1="108.5" x2="22" y2="15.5"/>
+  <line class="c" x1="58" y1="16" x2="22" y2="16"/>
+  <line class="c" x1="100.5" y1="16" x2="159.5" y2="16"/>
+  <line class="c" x1="130" y1="16.5" x2="130" y2="29.5"/>
+  <line class="c" x1="130" y1="78" x2="130" y2="100"/>
+  <rect class="b" x="52" y="8" width="48" height="16"/>
+  <line class="c" x1="130" y1="148.5" x2="130" y2="161.5"/>
+  <line class="c" x1="22" y1="108.5" x2="22" y2="161.5"/>
+  <line class="c" x1="207.5" y1="16" x2="220.5" y2="16"/>
+  <circle class="d" cx="223" cy="16" r="2.5"/>
+  <circle class="d" cx="223" cy="162" r="2.5"/>
+  <line class="c" x1="21.5" y1="161.5" x2="220.5" y2="162.5"/>
+  <circle cx="130" cy="16" r="1.5"/>
+  <circle cx="130" cy="162" r="1.5"/>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 50.2, 34.136)">R<tspan class="f" x="6.667" y="0" xml:space="preserve">1  </tspan><tspan class="g" x="12.685" y="0">2Ω</tspan></text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 108.2, 38.136)">R<tspan class="f" x="6.667" y="0">2</tspan><tspan class="g"><tspan x="0" y="12.6">1Ω</tspan></tspan></text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 108.2, 108.136)">R<tspan class="f" x="6.667" y="0">3</tspan><tspan class="g"><tspan x="0" y="12.6">1Ω</tspan></tspan></text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 158.2, 34.136)">R<tspan class="f" x="6.667" y="0" xml:space="preserve">4  </tspan><tspan class="g" x="12.685" y="0">1Ω</tspan></text>
+  <text class="h" transform="matrix(0.988, 0, -0.156, 0.988, 22.549, 15.006)">A</text>
+  <text class="h" transform="matrix(0.988, 0, -0.156, 0.988, 131.025, 94.006)">C </text>
+  <text class="h" transform="matrix(0.988, 0, -0.156, 0.988, 130.255, 15.006)">B</text>
+  <text class="h" transform="matrix(0.988, 0, -0.156, 0.988, 193.087, 160.297)">GND </text>
+  <text class="h" transform="matrix(0.988, 0, -0.156, 0.988, 211.255, 15.005)">D</text>
+</svg>

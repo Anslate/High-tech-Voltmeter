@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="790" height="241.901" viewBox="0 0 790 241.901">
+  <defs>
+    <style>
+      .a, .b {
+        fill: #fff;
+      }
+
+      .b, .c, .d {
+        stroke: #000;
+      }
+
+      .b, .c, .d, .l, .m, .n, .o {
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        stroke-width: 2.5px;
+      }
+
+      .c, .d, .l {
+        fill: none;
+      }
+
+      .c {
+        stroke-width: 1.25px;
+      }
+
+      .d {
+        stroke-width: 1.875px;
+      }
+
+      .e {
+        font-size: 17.718px;
+      }
+
+      .e, .f, .i {
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .f {
+        font-size: 15.187px;
+      }
+
+      .f, .i, .q {
+        fill: red;
+      }
+
+      .g {
+        font-size: 9.492px;
+      }
+
+      .h {
+        font-size: 15.19px;
+      }
+
+      .i {
+        font-size: 15.187px;
+      }
+
+      .j, .k {
+        font-size: 9.492px;
+      }
+
+      .k {
+        letter-spacing: 0em;
+      }
+
+      .l, .m, .n, .o {
+        stroke: red;
+      }
+
+      .m, .n, .o {
+        stroke-width: 2.25px;
+      }
+
+      .m {
+        fill: url(#a);
+      }
+
+      .n {
+        fill: url(#b);
+      }
+
+      .o {
+        fill: url(#c);
+      }
+
+      .p {
+        fill: url(#d);
+      }
+    </style>
+    <linearGradient id="a" data-name="未命名的渐变 2" x1="344.15" y1="880.211" x2="390.915" y2="880.211" gradientTransform="translate(1253.602 701.518) rotate(150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="b" x1="344.15" y1="872.858" x2="347.444" y2="872.858" xlink:href="#a"/>
+    <linearGradient id="c" x1="344.15" y1="865.063" x2="356.444" y2="865.063" xlink:href="#a"/>
+    <linearGradient id="d" x1="344.15" y1="866.711" x2="344.15" y2="866.711" gradientTransform="translate(1289.852 1191.268) rotate(150)" xlink:href="#a"/>
+  </defs>
+  <rect class="a" width="790" height="240"/>
+  <rect class="b" x="35" y="113" width="60" height="20"/>
+  <rect class="b" x="221.25" y="552.75" width="60" height="20" transform="translate(-347.75 324.25) rotate(-90)"/>
+  <line class="c" x1="215" y1="123" x2="215" y2="103"/>
+  <circle cx="215" cy="123" r="1.875"/>
+  <rect class="b" x="321.25" y="552.75" width="60" height="20" transform="translate(-247.75 424.25) rotate(-90)"/>
+  <circle cx="315" cy="123" r="1.875"/>
+  <line class="c" x1="315" y1="123" x2="315" y2="103"/>
+  <rect class="b" x="421.25" y="552.75" width="60" height="20" transform="translate(-147.75 524.25) rotate(-90)"/>
+  <circle cx="415" cy="123" r="1.875"/>
+  <line class="c" x1="415" y1="123" x2="415" y2="103"/>
+  <line class="c" x1="15" y1="123" x2="35" y2="123"/>
+  <line class="c" x1="215" y1="43" x2="215" y2="23"/>
+  <line class="c" x1="315" y1="43" x2="315" y2="23"/>
+  <line class="c" x1="415" y1="43" x2="415" y2="23"/>
+  <circle class="d" cx="12" cy="123" r="3.125"/>
+  <circle class="d" cx="215" cy="20.5" r="3.125"/>
+  <circle class="d" cx="315" cy="20.5" r="3.125"/>
+  <circle class="d" cx="415" cy="20.5" r="3.125"/>
+  <circle class="d" cx="440" cy="123" r="3.125"/>
+  <rect class="b" x="135" y="113" width="60" height="20"/>
+  <rect class="b" x="235" y="113" width="60" height="20"/>
+  <rect class="b" x="335" y="113" width="60" height="20"/>
+  <line class="c" x1="195" y1="123" x2="235" y2="123"/>
+  <line class="c" x1="295" y1="123" x2="335" y2="123"/>
+  <line class="c" x1="396.25" y1="123" x2="436.25" y2="123"/>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 179.856, 56.542)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 279.856, 56.542)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 379.856, 56.542)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 134.716, 109.045)">R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 34.716, 109.045)">R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 234.716, 109.045)">R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 334.716, 109.045)">R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 15.074, 100.674)">U<tspan class="g" x="10.949" y="0">3</tspan><tspan class="g"><tspan x="0" y="18.229" xml:space="preserve">  </tspan><tspan class="h" x="4.253" y="18.229">2</tspan></tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 219.83, 24.674)">U<tspan class="j" x="10.949" y="0">2</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 319.83, 24.674)">U<tspan class="j" x="10.949" y="0">1</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 419.83, 24.674)">U<tspan class="j" x="10.949" y="0">0</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 418.737, 118.341)">U<tspan class="k" x="10.949" y="0">out</tspan></text>
+  <line class="c" x1="95" y1="123" x2="135" y2="123"/>
+  <line class="l" x1="12.467" y1="104.25" x2="33.467" y2="104.25"/>
+  <rect class="b" x="657.14" y="552.893" width="60" height="20" transform="translate(87.997 760.283) rotate(-90)"/>
+  <circle cx="650.89" cy="123.143" r="1.875"/>
+  <line class="c" x1="650.89" y1="123.143" x2="650.89" y2="103.143"/>
+  <rect class="b" x="757.14" y="552.893" width="60" height="20" transform="translate(187.997 860.283) rotate(-90)"/>
+  <circle cx="750.89" cy="123.143" r="1.875"/>
+  <line class="c" x1="750.89" y1="123.143" x2="750.89" y2="103.143"/>
+  <line class="c" x1="650.89" y1="43.143" x2="650.89" y2="23.143"/>
+  <line class="c" x1="750.89" y1="43.143" x2="750.89" y2="23.143"/>
+  <circle class="d" cx="650.89" cy="20.643" r="3.125"/>
+  <circle class="d" cx="750.89" cy="20.643" r="3.125"/>
+  <circle class="d" cx="775.89" cy="123.143" r="3.125"/>
+  <rect class="b" x="570.89" y="113.143" width="60" height="20"/>
+  <rect class="b" x="670.89" y="113.143" width="60" height="20"/>
+  <line class="c" x1="630.89" y1="123.143" x2="670.89" y2="123.143"/>
+  <line class="c" x1="732.14" y1="123.143" x2="772.14" y2="123.143"/>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 615.746, 56.685)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 715.746, 56.685)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 570.606, 109.188)">R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 670.606, 109.188)">R</text>
+  <rect class="b" x="557.14" y="552.893" width="60" height="20" transform="translate(-12.003 660.283) rotate(-90)"/>
+  <rect class="b" x="557.14" y="652.893" width="60" height="20" transform="translate(-112.003 760.283) rotate(-90)"/>
+  <line class="c" x1="550.89" y1="103.143" x2="550.89" y2="143.143"/>
+  <circle cx="550.89" cy="123.143" r="1.875"/>
+  <line class="c" x1="550.89" y1="223.143" x2="550.89" y2="203.143"/>
+  <line class="c" x1="550.89" y1="43.143" x2="550.89" y2="23.143"/>
+  <circle class="d" cx="550.89" cy="20.643" r="3.125"/>
+  <line class="c" x1="550.89" y1="123.143" x2="570.89" y2="123.143"/>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 563.246, 56.685)">2R</text>
+  <text class="e" transform="matrix(0.988, 0, -0.156, 0.988, 563.247, 156.688)">2R</text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 555.72, 24.816)">U<tspan class="j" x="10.949" y="0">2</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 655.72, 24.816)">U<tspan class="j" x="10.949" y="0">1</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 755.72, 24.816)">U<tspan class="j" x="10.949" y="0">0</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 754.628, 118.484)">U<tspan class="k" x="10.949" y="0">out</tspan></text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 563.357, 208.174)">U<tspan class="g" x="10.949" y="0">3</tspan><tspan class="g"><tspan x="0" y="18.229" xml:space="preserve">  </tspan><tspan class="h" x="4.253" y="18.229">2</tspan></tspan></text>
+  <line class="l" x1="560.75" y1="211.75" x2="581.75" y2="211.75"/>
+  <circle class="d" cx="551" cy="226" r="3.125"/>
+  <g>
+    <line class="m" x1="522.205" y1="123" x2="468.205" y2="123"/>
+    <line class="n" x1="522.205" y1="123" x2="513.205" y2="114"/>
+    <line class="o" x1="522.205" y1="123" x2="513.205" y2="132"/>
+    <g>
+      <path class="p" d="M558.454,612.75Z" transform="translate(-36.25 -489.75)"/>
+      <polygon class="q" points="522.205 121.409 520.614 123 522.205 124.591 523.795 123 522.205 121.409 522.205 121.409"/>
+    </g>
+  </g>
+</svg>

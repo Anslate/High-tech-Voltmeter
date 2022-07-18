@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="250" viewBox="0 0 375 250">
+  <defs>
+    <style>
+      .a, .b {
+        fill: #fff;
+      }
+
+      .b, .c, .d, .e {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        stroke-width: 2.5px;
+      }
+
+      .c, .d, .e {
+        fill: none;
+      }
+
+      .c {
+        stroke-width: 1.25px;
+      }
+
+      .d {
+        stroke-width: 0.938px;
+      }
+
+      .e {
+        stroke-width: 1.875px;
+      }
+
+      .f {
+        font-size: 17.718px;
+      }
+
+      .f, .g, .i {
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, Source Han Sans CN;
+      }
+
+      .g {
+        font-size: 10.125px;
+        fill: blue;
+      }
+
+      .h {
+        letter-spacing: -0.025em;
+      }
+
+      .i {
+        font-size: 15.187px;
+        fill: red;
+      }
+
+      .j, .k {
+        font-size: 9.492px;
+      }
+
+      .k {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="a" width="375" height="250"/>
+  <rect class="b" x="121.25" y="552.75" width="60" height="20" transform="translate(-534 225) rotate(-90)"/>
+  <rect class="b" x="121.25" y="652.75" width="60" height="20" transform="translate(-634 325) rotate(-90)"/>
+  <line class="c" x1="28.75" y1="103.75" x2="28.75" y2="143.75"/>
+  <circle cx="28.75" cy="123.75" r="1.875"/>
+  <line class="d" x1="17.5" y1="223.75" x2="40" y2="223.75"/>
+  <line class="d" x1="21.25" y1="228.75" x2="36.25" y2="228.75"/>
+  <line class="d" x1="25" y1="233.75" x2="32.5" y2="233.75"/>
+  <line class="c" x1="28.75" y1="223.75" x2="28.75" y2="203.75"/>
+  <rect class="b" x="221.25" y="552.75" width="60" height="20" transform="translate(-434 325) rotate(-90)"/>
+  <line class="c" x1="128.75" y1="123.75" x2="128.75" y2="103.75"/>
+  <circle cx="128.75" cy="123.75" r="1.875"/>
+  <rect class="b" x="321.25" y="552.75" width="60" height="20" transform="translate(-334 425) rotate(-90)"/>
+  <circle cx="228.75" cy="123.75" r="1.875"/>
+  <line class="c" x1="228.75" y1="123.75" x2="228.75" y2="103.75"/>
+  <rect class="b" x="421.25" y="552.75" width="60" height="20" transform="translate(-234 525) rotate(-90)"/>
+  <circle cx="328.75" cy="123.75" r="1.875"/>
+  <line class="c" x1="328.75" y1="123.75" x2="328.75" y2="103.75"/>
+  <line class="c" x1="28.75" y1="43.75" x2="28.75" y2="23.75"/>
+  <line class="c" x1="128.75" y1="43.75" x2="128.75" y2="23.75"/>
+  <line class="c" x1="228.75" y1="43.75" x2="228.75" y2="23.75"/>
+  <line class="c" x1="328.75" y1="43.75" x2="328.75" y2="23.75"/>
+  <circle class="e" cx="28.75" cy="21.25" r="3.125"/>
+  <circle class="e" cx="128.75" cy="21.25" r="3.125"/>
+  <circle class="e" cx="228.75" cy="21.25" r="3.125"/>
+  <circle class="e" cx="328.75" cy="21.25" r="3.125"/>
+  <circle class="e" cx="353.75" cy="123.75" r="3.125"/>
+  <rect class="b" x="48.75" y="113.75" width="60" height="20"/>
+  <rect class="b" x="148.75" y="113.75" width="60" height="20"/>
+  <rect class="b" x="248.75" y="113.75" width="60" height="20"/>
+  <line class="c" x1="28.75" y1="123.75" x2="48.75" y2="123.75"/>
+  <line class="c" x1="108.75" y1="123.75" x2="148.75" y2="123.75"/>
+  <line class="c" x1="208.75" y1="123.75" x2="248.75" y2="123.75"/>
+  <line class="c" x1="310" y1="123.75" x2="350" y2="123.75"/>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 41.069, 57.279)">2R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 93.569, 57.279)">2R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 193.569, 57.279)">2R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 293.569, 57.279)">2R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 41.069, 157.281)">2R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 48.428, 109.781)">R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 148.428, 109.781)">R</text>
+  <text class="f" transform="matrix(0.988, 0, -0.156, 0.988, 248.428, 109.781)">R</text>
+  <text class="g" transform="matrix(0.988, 0, -0.156, 0.988, 333.559, 40.41)">MSB</text>
+  <text class="g" transform="matrix(0.988, 0, -0.156, 0.988, 33.559, 40.41)"><tspan class="h">L</tspan><tspan x="5.244" y="0">SB</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 33.543, 25.41)">U<tspan class="j" x="10.949" y="0">3</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 133.543, 25.41)">U<tspan class="j" x="10.949" y="0">2</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 233.543, 25.41)">U<tspan class="j" x="10.949" y="0">1</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 333.543, 25.41)">U<tspan class="j" x="10.949" y="0">0</tspan></text>
+  <text class="i" transform="matrix(0.988, 0, -0.156, 0.988, 332.45, 119.078)">U<tspan class="k" x="10.949" y="0">out</tspan></text>
+</svg>
