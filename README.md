@@ -2,8 +2,13 @@
 
 基于电压表的电脑状态监控仪表·改  
 创意来源：[PC 状态物理监控表](https://github.com/ShaderFallback/CpuRamGet)-[日出东水](https://space.bilibili.com/319287192)  
-先行发布：[R-2R DAC](./R2R%20DAC.md)
 
+---
+## 导航
+[R-2R DAC](./R2R%20DAC.md)  
+[一般的使用说明](./使用说明.md)
+
+---
 ## 版权相关
 要复制请提供出处以及作者（作者就是我本人 **Anslate** ），不能商用.  
 本文的文字以及插图所有权归属于：Anslate Anslate2020@outlook.com.  
